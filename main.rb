@@ -15,4 +15,8 @@ class Main
       p params
     end
   end
+
+  def another_method
+    'Another mehtod'
+  end
 end
